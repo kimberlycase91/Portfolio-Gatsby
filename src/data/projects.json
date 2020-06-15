@@ -1,0 +1,18 @@
+[
+    {
+        "title": "GitClub",
+        "slug": "project-1",
+        "url": "https://git-club.herokuapp.com",
+        "github": "https://github.com/kimberlycase91/fazeclan",
+        "image": "./images/GitClub.JPG",
+        "description": "A React App..."
+    },
+    {
+        "title": "GitClub",
+        "slug": "project-2",
+        "url": "https://git-club.herokuapp.com",
+        "github": "https://github.com/kimberlycase91/fazeclan",
+        "image": "./images/GitClub.JPG",
+        "description": "A React App..."
+    }
+]
